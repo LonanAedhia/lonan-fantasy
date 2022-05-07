@@ -1,7 +1,7 @@
 ---
 layout: page
 title: home
-
+permalink: https://lonanaedhia.github.io/lonan-fantasy/
 ---
 # Bienvenue 
 
