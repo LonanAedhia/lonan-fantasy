@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Bienvenue 
 
-You can use the [editor on GitHub](https://github.com/LonanAedhia/lonan-fantasy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Bienvenue sur le site et jardin numérique d’auteur et d’artiste de la romancière Lonan Aedhia, créatrice d’univers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Qui est Lonan ? Autrice de romans Fantasy (série du Miroir des Âmes), elle crée aussi l’univers dans lequel ses histoires se déroulent et invente la mythologie, la magie, les créatures qui habitent ses histoires.
 
-### Markdown
+C’est ce travail de romancière et de créatrice d’univers que Lonan Aedhia expose sur son jardin numérique d’auteur et d’artiste.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+À travers ses romans et ses œuvres, elle vous invite à explorer son univers, à découvrir les histoires qui s’y déroulent, à rencontrer les divinités, les figures légendaires et les personnages qui le peuplent.
 
-```markdown
-Syntax highlighted code block
+Elle partage aussi les secrets de son métier à travers des articles dédiés à l’art de l’écriture, aux techniques d’illustrations et à ses sources d’inspiration. 
 
-# Header 1
-## Header 2
-### Header 3
+## Structure : 
+### Le Portfolio : 
 
-- Bulleted
-- List
+Destiné à exposer à la fois mes écrits et mes illustrations.
 
-1. Numbered
-2. List
+### Le jardin des idées : 
 
-**Bold** and _Italic_ and `Code` text
+Pas de longs articles de blogs trop formatés, je propose d'explorer à votre rythme les différents thèmes qui me préoccuppent : apprentissage à l'écriture, conseils, dessin, inspiration, curations d'artistes, Zettelkasten… 
 
-[Link](url) and ![Image](src)
-```
+### Encyclopédie de mon univers : 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LonanAedhia/lonan-fantasy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Pour découvrir et explorer 
